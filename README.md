@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 我是一枚铁骨铮铮的打组怒汉！
-- 🌱 5分翻译，4分摘抄，1分原创
-- 👯 Mac, Programming, VSCode, Golang
+- 💪 我是一枚铁骨铮铮的打组怒汉！
+- 🤪 5分翻译，4分摘抄，1分原创
+- 🤟 Mac, Programming, VSCode, Golang
