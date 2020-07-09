@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 我是一枚铁骨铮铮的打组怒汉！
+- 🌱 5分翻译，4分摘抄，1分原创
+- 👯 Mac, Programming, VSCode, Golang
