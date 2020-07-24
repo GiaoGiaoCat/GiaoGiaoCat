@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 💪 我是壹枚鐵骨錚錚的打組怒漢！
-- 🤪 5分翻譯，4分摘抄，1分原創
-- 🤟 Mac, Programming, VSCode, Golang
-- 📓 Blog: [脫線道士維克多](http://wjp2013.github.io/)
+- 🤪 不會寫代碼，但是很喜歡乱敲鍵盤。
+- 📓 Blog: [脫線道士維克多](https://giaogiaocat.github.io/)
 - 📫 WeChat: GiaoGiaoCat
